@@ -1,0 +1,149 @@
+==NEO Enhancement Proposals==
+
+NEO Enhancement Proposals (NEPs) describe standards for the NEO platform, including core protocol specifications, client APIs, and contract standards.
+
+==Contributing==
+
+First review [[nep-1.mediawiki|NEP-1]]. Then clone the repository and add your NEP to it. There is a [[nep-X.mediawiki|template NEP here]]. Then submit a [https://github.com/neo-project/proposals/pulls Pull Request] to this repository.
+
+==Table of Contents==
+
+{| class="wikitable sortable" style="width: auto; text-align: center; font-size: smaller; table-layout: fixed;"
+!<nowiki>#</nowiki>
+!Title
+!Author
+!Type
+!Status
+|-
+| [[nep-1.mediawiki|1]]
+| NEP Purpose and Guidelines
+| Erik Zhang
+| Meta
+| Active
+|-
+| [[nep-2.mediawiki|2]]
+| Passphrase-protected private key
+| Erik Zhang
+| Standard
+| Final
+|-
+| [[nep-3.mediawiki|3]]
+| NeoContract ABI
+| Erik Zhang
+| Standard
+| Final
+|-
+| [[nep-4.mediawiki|4]]
+| Dynamic Contract Invocation
+| localhuman, unignorant
+| Standard
+| Final
+|-
+| [[nep-5.mediawiki|5]]
+| Token Standard
+| lllwvlvwlll, luodanwg, tanyuan, Alan Fong
+| Standard
+| Final
+|-
+| [[nep-6.mediawiki|6]]
+| Wallet Standard
+| Erik Zhang
+| Standard
+| Final
+|-
+| [https://github.com/neo-project/proposals/pull/15 7]
+| Triggers for NeoContract
+| Erik Zhang
+| Standard
+| Accepted
+|-
+| [https://github.com/neo-project/proposals/pull/22 8]
+| Stack Isolation for NeoVM
+| Erik Zhang
+| Standard
+| Accepted
+|-
+| [https://github.com/neo-project/proposals/pull/25 9]
+| URI Scheme
+| Andrei, Apisit
+| Standard
+| Accepted
+|-
+| 
+| Superconductive Exchange
+| 
+| Standard
+| Stub
+|-
+| 
+| Dynamic Sharding
+| 
+| Standard
+| Stub
+|-
+| 
+| Compact Block Relay
+| 
+| Standard
+| Stub
+|-
+| 
+| Peer Authentication
+| 
+| Standard
+| Stub
+|-
+| 
+| Aggregate Signature
+| 
+| Standard
+| Stub
+|-
+| 
+| SM2 Cryptography
+| 
+| Standard
+| Stub
+|-
+| 
+| Homomorphic Encryption
+| 
+| Standard
+| Stub
+|-
+| 
+| Zero-knowledge proof
+| 
+| Standard
+| Stub
+|-
+| 
+| Stealth Addresses
+| 
+| Standard
+| Stub
+|-
+| 
+| NeoID
+| 
+| Standard
+| Stub
+|-
+| 
+| NeoFS
+| 
+| Standard
+| Stub
+|-
+| 
+| NeoX
+| 
+| Standard
+| Stub
+|-
+| 
+| NeoQS
+| 
+| Standard
+| Stub
+|}
